@@ -1,0 +1,14 @@
+C:\Users\aliss\OneDrive\Documentos\Bootcamp DIO\Hospedagem\obj\Debug\net7.0\Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliss\OneDrive\Documentos\Bootcamp DIO\Hospedagem\obj\Debug\net7.0\Hospedagem.AssemblyInfoInputs.cache
+C:\Users\aliss\OneDrive\Documentos\Bootcamp DIO\Hospedagem\obj\Debug\net7.0\Hospedagem.AssemblyInfo.cs
+C:\Users\aliss\OneDrive\Documentos\Bootcamp DIO\Hospedagem\obj\Debug\net7.0\Hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\aliss\OneDrive\Documentos\Bootcamp DIO\Hospedagem\bin\Debug\net7.0\Hospedagem.exe
+C:\Users\aliss\OneDrive\Documentos\Bootcamp DIO\Hospedagem\bin\Debug\net7.0\Hospedagem.deps.json
+C:\Users\aliss\OneDrive\Documentos\Bootcamp DIO\Hospedagem\bin\Debug\net7.0\Hospedagem.runtimeconfig.json
+C:\Users\aliss\OneDrive\Documentos\Bootcamp DIO\Hospedagem\bin\Debug\net7.0\Hospedagem.dll
+C:\Users\aliss\OneDrive\Documentos\Bootcamp DIO\Hospedagem\bin\Debug\net7.0\Hospedagem.pdb
+C:\Users\aliss\OneDrive\Documentos\Bootcamp DIO\Hospedagem\obj\Debug\net7.0\Hospedagem.dll
+C:\Users\aliss\OneDrive\Documentos\Bootcamp DIO\Hospedagem\obj\Debug\net7.0\refint\Hospedagem.dll
+C:\Users\aliss\OneDrive\Documentos\Bootcamp DIO\Hospedagem\obj\Debug\net7.0\Hospedagem.pdb
+C:\Users\aliss\OneDrive\Documentos\Bootcamp DIO\Hospedagem\obj\Debug\net7.0\Hospedagem.genruntimeconfig.cache
+C:\Users\aliss\OneDrive\Documentos\Bootcamp DIO\Hospedagem\obj\Debug\net7.0\ref\Hospedagem.dll
